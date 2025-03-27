@@ -1,4 +1,4 @@
-# Django Blog Practice
+# Django Blog
 
 A simple Django-powered blog where an admin can create posts, and users can view and manage a "Read Later" list.
 
